@@ -1,5 +1,5 @@
 # ToolsForDSAssignment
-Final Assignment in course Tool for Data Science
+Final Assignment in course Tools for Data Science
 > This course introduced you to multiple data science tools, and in this final project, you will use Jupyter Notebook, one of the easiest tools to share publicly.
 >
 >Include at least 6 cells:
